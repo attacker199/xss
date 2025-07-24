@@ -1,0 +1,5 @@
+<html>
+  <body>
+    <script>alert('Bug bounty XSS test');</script>
+  </body>
+</html>
